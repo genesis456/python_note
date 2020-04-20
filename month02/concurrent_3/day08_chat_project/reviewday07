@@ -1,0 +1,53 @@
+前情回顾
+
+1. udp通信
+
+   服务端： socket -> bind -> recvfrom/sendto -> close
+
+   客户端： socket -> sendto/recvfrom -> close
+
+2. 套接字属性
+
+    fileno()
+    getpeername()
+    setsockopt()
+
+3. struct
+
+   功能: 将一组数据打包位bytes，将bytes数据解析为元组
+
+   Struct(fmt)  i -> int  f-> float  s -> bytes
+   pack() 打包
+   unpack() 解包
+
+4. http 协议
+
+   请求格式：  请求行  GET  /   HTTP/1.1
+             请求头
+             空行
+             请求体
+
+   响应格式：  响应行  HTTP/1.1  200  OK
+             响应头
+             空行
+             响应体  具体内容
+
+1. httpserver 1.0
+
+2. 进程 ： 程序的执行过程，多任务编程手段
+
+3. 进程的产生过程，进程的基本概念，进程状态
+
+《计算机网络》 《操作系统原理》 《编译原理》
+
+4. fork创建进程
+
+5. 函数： getpid()  getppid()
+         _exit()   exit()
+
+6. 孤儿进程，僵尸进程
+
+   * wait()
+   * 二级子进程
+   * signal
+
