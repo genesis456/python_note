@@ -34,8 +34,9 @@ def sub_sort(list_,low,high):
         while list_[low] <= x and low < high:
             low += 1
         list_[high] = list_[low]
-    list_[low] = x
+    list_[low] = x   #最后将基准值插入空缺的位置（也就是中间，左边都比基准值小，右边都比基准大）
     return low
+#都是比较你设定的那个基准值,每次比较完一轮，就将基准索引返回作为下一轮的最后元素索引和开头元素索引
 
 def quick(list_,low,high):
     #low 表示第一个元素索引，high表示最后一个元素索引
@@ -45,7 +46,7 @@ def quick(list_,low,high):
         quick(list_,low,key - 1)
         quick(list_,key+1,high)
 
-quick(list,0,len(list)-1)
+quick(list, 0, len(list) - 1)
 print(list)
 
 #选择排序

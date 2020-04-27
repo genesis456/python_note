@@ -40,8 +40,8 @@ sql = "insert into words (word,explains) values (%s,%s);"
 
 for line in f:
     #获取单词和解释
-    tup = re.findall(r"(\S+)\s+(.*)",line)[0]
-    # 如果正则表达式有子组则只能获取到子组对应的内容,返回的结果是一个元祖（子组1，子组2）
+    tup = re.findall(r"(\S+)\s+(.*)",line)[0]   #要将元祖拿出来
+    # 如果正则表达式有子组则只能获取到子组对应的内容,返回的结果是一个列表套元祖［（子组1，子组2）］
     try:
         cur.execute(sql,tup)
         db.commit()

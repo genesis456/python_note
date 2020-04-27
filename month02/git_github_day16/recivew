@@ -1,0 +1,30 @@
+复习上节
+
+1. git 的使用
+      ＊　什么是git
+      ＊　基本命令
+      　　　　git config　　配置
+             git add
+             git commit
+             git tag
+             git reset
+             git stash
+             git branch
+
+      * github使用
+            git remote
+            git clone
+            git push
+            git pull/fetch
+
+2. 软件项目开发流程
+
+＊需求分析　　（需求分析文档）
+＊概要设计　　（概要设计文档）
+＊项目计划　　（甘特图，思维导图）
+＊详细设计／编码测试　（详细设计文档）
+＊测试／修改完善　　（测试文档）
+＊上线，发布　　（说明文档）
+＊后期维护／产品升级
+
+

@@ -10,7 +10,7 @@ class Node:
     思路：自定义类视为节点类，类中的属性为数据内容
         　　写一个next属性，用来和下一个节点建立关系
     """
-    def __init__(self,val,next = None):
+    def __init__(self,val,next=None):
         """
               val: 有用数据
               next: 下一个节点引用
@@ -59,7 +59,7 @@ class LinkList:
         p = self.head #P移动到最后一个节点
         while p.next is not None:
             p = p.next
-            p.next = Node(val)#最后添加节点
+        p.next = Node(val)#最后添加节点
     #头部插入
     def head_insert(self,val):
         node = Node(val)

@@ -31,7 +31,7 @@ def parent(text):
         #当索引小于字符串长度（还没遍历到结尾）
         # 并且字符串不属于parens。就向后移动
         while i < text_len and text[i] not in parens:
-            i += 1
+            i += 1  #向后移动
 
         #到字符串结尾了（返回值None）
         if i >= text_len:
@@ -46,12 +46,12 @@ def ver():
         if pr in left_parens:    #pr:字符  j:位置
             st.push((pr,j)) # 左括号入栈（可以作为元组和索引一起入栈）
         elif st.is_empty() or st.pop()[0] != opposite[pr]:
-                            #st.pop()取出的是(pr,j)，拿［0］
+                            #st.pop()取出的是(pr,j)，拿［0］（左括号）不等于匹配的左括号
             print("Unmatching is found at %d for %s"%(j,pr))
             break  #有错的就告知并退出
 
     else:
-        if st.is_empty():
+        if st.is_empty():  #如果遍历完，栈为空，就全正确
             print("All parentheses are matched")
         else:
             #左括号多了

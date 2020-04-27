@@ -36,8 +36,12 @@ class SQueue:
 
 if __name__ == "__main__":
     sq = SQueue()
+
     for i in range(10):
+
         sq.enqueue(i)
+    # while not sq.is_empty():
+    #     print(sq.dequeue())
 
 #########将队列进行翻转###############
 

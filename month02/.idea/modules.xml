@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/cdd/.idea/cdd.iml" filepath="$USER_HOME$/cdd/.idea/cdd.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/month02.iml" filepath="$PROJECT_DIR$/.idea/month02.iml" />
       <module fileurl="file://$USER_HOME$/mysql/.idea/mysql.iml" filepath="$USER_HOME$/mysql/.idea/mysql.iml" />
     </modules>
