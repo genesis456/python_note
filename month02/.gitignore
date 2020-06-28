@@ -1,6 +1,0 @@
-.gitignore忽略规则简单说明
-
-file            表示忽略file文件
-*.a             表示忽略所有 .a 结尾的文件
-!lib.a          表示但lib.a除外
-build/          表示忽略 build/目录下的所有文件，过滤整个build文件夹；
