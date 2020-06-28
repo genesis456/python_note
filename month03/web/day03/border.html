@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=div, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        /* 实现边框 */
+        #div01{
+            width: 100px;
+            height: 100px;
+            background-color: green;
+            border-top: dashed 5px red;
+            border-bottom: dotted 5px red;
+            border-left: double 5px red;
+            border-right: solid 5px red;
+            margin: 0 auto
+        }
+        
+        /* 实现三角形 */
+        /* 都需要用边框撑起来 */
+        #div02{
+            width: 0px;
+            height: 0px;
+            margin: 0 auto;
+            border: 50px solid black;
+            /* 透明度为零 */
+            border-bottom-color: rgba(0, 0, 0, 0);
+            border-left-color:rgba(0, 0, 0, 0);
+            border-right-color:transparent;
+        }
+
+        /* 实现圆形边框 */
+        #div03{
+            width: 100px;
+            height: 100px;
+            background-color: orange;
+            margin: 0 auto;
+            border: green solid 2px;
+            border-radius: 50%;
+        }
+
+        /* 实现扇形图案 */
+        #div04{
+            width: 0px;
+            height: 0px;
+            margin: 0 auto;
+            border:  solid 50px #cccccc;
+            border-radius: 50%;
+            border-right-color:transparent;
+            border-left-color:transparent;
+            border-top-color: red;
+            border-bottom-color: blue;
+
+
+        }
+        /* 设置轮廓线 */
+        input{
+            outline: 1px solid red;
+            /* 取消轮廓线 */
+            /* outline: none; */
+        }
+    </style>
+</head>
+<body>
+    <div id="div01">
+
+    </div>
+
+    <div id="div02">
+
+    </div>
+
+    <div id="div03">
+
+    </div>
+
+    <div id="div04">
+
+    </div> 
+    <input type="text">
+    <input type="button" value="确定">
+</body>
+</html>

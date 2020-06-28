@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <div id="reg" style="width: 300px;">
+        <h2>用户注册</h2>
+        <form action="#">
+            <div>
+                <label for="accout">帐号</label>
+                <input type="text"
+                       name="accout"
+                       id="account">
+            </div>
+
+            <div>
+                <label for="pass">密码</label>
+                <input type="password"
+                       name="pass"
+                       id="pass">
+            </div>
+
+            <div>
+                <label for="marry">婚否</label>
+                <input type="checkbox"
+                       name="marry"
+                       id="marry">
+            </div>
+
+            <div>
+                <label for="">性别</label>
+                <input type="radio"
+                       name="sex"
+                       value="1" 
+                       checked>男
+                <input type="radio" 
+                       name="sex" 
+                       value="2"> 女
+            </div>
+
+            <div>
+                <label for="x1">学历</label>
+                <select name="x1" id="x1">
+                    <option value="0" selected>请选择</option>
+                    <option value="1">研究生</option>
+                    <option value="2">本科</option>
+                    <option value="3">大专</option>
+                </select>
+            </div>
+
+            <div>
+                <label for="">简介</label>
+                <textarea name="intro" id="intro" cols="30" rows="10">
+
+                </textarea>
+            </div>
+
+            <div style="text-align: center">
+                <input type="submit" value="提交">
+                <input type="reset" value="重置">
+            </div>
+        </form>
+    </div>
+</body>
+</html>

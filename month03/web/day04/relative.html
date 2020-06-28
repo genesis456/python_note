@@ -1,0 +1,35 @@
+<!-- 相对定位 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        div{
+            width: 100px;
+            height: 100px;
+            border: solid 1px red;
+        }
+        
+        /* 在集合中查找某个子类 */
+        div:nth-child(2){
+            /* 设置为相对定位 */
+            position: relative; 
+            left: 100px;
+        }
+        div:nth-child(3){
+            position: relative;
+            top: 20px;
+
+        }
+    </style>
+</head>
+<body>
+    通过
+    <div></div>   <!--原始块元素，不做任何改变-->
+    <div></div>　　<!--相对定位，偏移-->
+    <div></div>    <!--相对定位，偏移-->
+</body>
+</html>

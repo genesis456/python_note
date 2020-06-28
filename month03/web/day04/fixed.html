@@ -1,0 +1,61 @@
+<!-- 固定定位 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+
+
+        #top,#bottom{
+            background-color: rgba(0,0,255,0.3);
+            text-align: center;
+            color: #ffffff;
+            padding: 10px 0;
+            position: fixed;
+            
+            width: 100%;
+            height: 25px;
+        }
+        #top{
+            top:0;
+        }
+        #bottom{
+            bottom:0;
+        }
+        #left,#right{
+            width:40px;
+            height:300px;
+            background-color:#005aa0;
+            position:fixed
+        }
+        #left{
+            left:0;
+            top:180px;
+        }
+        #right{
+            right:0;
+            top:180px;
+        }
+    </style>
+
+
+</head>
+<body>
+
+    <div id="top">
+        人生苦短，我用python
+    </div>
+    
+    <div style="margin: 45px">python:吉多.范罗苏姆,荷兰人，数学家</div>
+
+    <div style="height: 2000px"></div>
+    <div id="bottom">python聚集地</div>
+    <div id="left">别</br>看</br>这</br>边</div>
+    <div id="right">看</br>这</br>边</div>
+</body>
+</html>

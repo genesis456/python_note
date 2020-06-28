@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #check .txt{
+            padding: 5px;
+
+        }
+        #check .btn{
+            margin: 8px 0 ;
+        }
+    </style>
+</head>
+<body>
+    <div id="check">
+        <h3>输入文字的验证：</h3>
+        <!-- placeholder (提示语) -->
+        <input type="text"
+                id="txt"
+                class="txt"
+               placeholder="请输入字符串">
+        <div class="btn">
+            <button onclick="bb()">验证</button>
+        </div>
+        <div id="result">
+
+        </div>
+    </div>
+    <!--    有个input输入框,输入一些内容-->
+<!--    还有个按钮，当点击按钮去判断input中输入的内容-->
+<!--    如果输入的是纯数字，提示输入错误  12321312312-->
+<!--    如果输入的是非纯数字字符串，提示输入正确 asdasda or 123abc-->
+<!--    将判断的结果现在在一个空的div中-->
+    <!-- js代码一般写在最后 -->
+    <script>
+        function bb(){
+            //分别获取元素对象，并保存在变量中
+            var txt=document.getElementById("txt");
+            var res=document.getElementById("result");
+            //根据文本框获取的值，进行判断
+            var num = txt.value;
+            //Number(num)  如果是数字，返回数字，否则返回NaN
+            //isNan(num)  如果是数字，返回false,否则返回true
+            var isNum = isNum(Number(num))?false:true;
+            res.innerText=isNum?'数字':'字符';  
+        }
+    </script>
+</body>
+</html>

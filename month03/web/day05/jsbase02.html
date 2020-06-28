@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var num = 1;
+        // 自增或自减运算符在单独与变量结合时，放前和放后没有区别
+        // num++;  //2
+        // ++num;  //2
+        // console.log(num)
+
+        console.log(123 + num++)  //124(先结合后运算)
+        console.log(num)  //２　后运算
+        console.log(123 + ++num)　//126（先运算后结合）
+
+        //比较运算符
+        console.log('1' != 1);
+        console.log('1' === 1);
+        console.log('123' < '456');
+        console.log(456 < '123');
+        console.log('我叫赵成明'.charCodeAt(0));
+        console.log('我叫'.charCodeAt(1));
+        console.log('我' > '叫');
+        console.log('123abc' < 123);
+        console.log(typeof(NaN));
+
+        //逻辑运算符
+        var a=10,b=20,c=30;
+        console.log(!(a>b&&b>c  || a<b&&c>b))
+
+        //三元运算符
+        console.log(a>b ? a : b)
+
+    </script>
+</body>
+</html>

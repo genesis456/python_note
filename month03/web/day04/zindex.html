@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #parent{
+            width: 400px;
+            height: 400px;
+            position: relative;
+            border: solid 1px red;
+            margin: 0 auto;
+        }
+
+        /*向下偏移50px 向右偏移30px*/
+        #parent>div:nth-child(1){
+            position: absolute;
+            top:50px;
+            left:30px;
+            /*z-index: 2;*/
+        }
+
+        /* 第二个会覆盖第一个（后者居上) */
+        #parent>div:nth-child(2){
+            position: absolute;
+            top:100px;
+            left: 80px;
+
+        }
+
+        #parent>div:nth-child(1):hover{
+            /* 设置该属性可以将它放在上面 */
+            z-index: 2;
+        }
+
+    </style>
+
+</head>
+<body>
+
+    <div id="parent">
+        <div>
+            <img src="imgs/timg.jpg" alt="" width="150px" height="120px">
+        </div>
+
+        <div>
+            <img src="imgs/123.jpg" alt="" width="150px" height="120px">
+        </div>
+    </div>
+    
+</body>
+</html>

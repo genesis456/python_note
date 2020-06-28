@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #pic{
+            width: 179px;
+            height: 186px;
+            border: solid 1px #ccc;
+            margin: 0 auto;
+        }
+        #pic>div:nth-child(1){
+            background-color: #f35d5c;
+            color:#fff;
+            /* 默认字体的宽度 */
+            float: left;
+            border-radius: 0 3px 3px 0;
+            /* 左边距为3px */
+            margin-left: 3px;
+            /* 文字与边框之间的距离 */
+            padding: 3px;
+
+        }
+        #pic>div:nth-child(3){
+            margin-left:43px ;
+            font-size:20px;
+        }
+        #pic>div:nth-child(4){
+            margin-left: 43px;
+            font-size: 18px;
+            color: #c9c9c9;
+        }
+        #pic>div:nth-child(5){
+            margin-top: 10px;
+            text-align: center;
+        }
+        #pic>div:nth-child(2){
+            clear:left
+
+        }
+    </style>
+</head>
+<body>
+    <!-- 1、添加页面需求的元素，由大的块元素包裹子类元素 -->
+    <!-- ２、编写样式控制添加好的页面元素 -->
+    <!-- ３、微调编写好的样式，并调优 -->
+
+    <div id="pic">
+        <div>低价</div>
+        <div></div>  <!--清除浮动（不然后面也会浮动）-->
+        <div>母婴馆</div>
+        <div>秒杀低至一元</div>
+        <div>
+            <img src="imgs/img2.png" alt="">
+        </div>
+    </div>
+</body>
+</html>

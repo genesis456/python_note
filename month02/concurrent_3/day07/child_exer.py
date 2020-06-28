@@ -6,7 +6,7 @@ child.py
 def f1():
     for i in range(3):
         sleep(2)
-        print("写代码")
+        print("写 代码")
 
 def f2():
     for i in range(2):

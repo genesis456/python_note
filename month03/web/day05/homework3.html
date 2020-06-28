@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #mob{
+            width:297px;
+            height: 528px;
+            margin:0 auto;
+            border: solid 0px red;
+            background-image: url("imgs/img1.png");
+        }
+        /* #mob img{
+            margin-top:59px;
+            margin-left:14px;
+        } */
+        #mob iframe{
+            margin-top:59px;
+            margin-left:14px;
+        }
+    </style>
+</head>
+<body>
+    <div id="mob">
+        <!-- <img width="270px" height="420px" src="imgs/img2.png" alt=""> -->
+    
+            <!-- 在页面中打开一个指定地址的页面 
+                如果在一个页面中嵌入另外一个网址的页面，可以
+                用iframe元素
+                缺点：启动时，消耗比较大，但也是一种方式
+            -->
+        <iframe width="270px"
+                height="420px" 
+                src="https://www.baidu.com" frameborder="1"
+                >
+        </iframe>
+    </div>
+</body>
+</html>

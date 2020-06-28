@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3eba193-2472-4b98-8a0f-8460bc774b41" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../.swp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.swp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day01/.idea/day01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day01/.idea/day01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day01/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day01/esercise1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day01/esercise1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day02/.idea/day02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day02/.idea/day02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day02/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day02/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day02/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day02/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day02/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day02/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day02/excecise08.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day02/excecise08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day02/exercise01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day02/exercise01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day02/exercise02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day02/exercise02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day02/exercise03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day02/exercise03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day02/exercise04.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day02/exercise04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day02/exercise05.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day02/exercise05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day02/exercise06.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day02/exercise06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day02/exercise07.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day02/exercise07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day02/exercise09.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day02/exercise09.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day03/.idea/day03.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day03/.idea/day03.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day03/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day03/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day03/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day03/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day03/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day03/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day03/day03 exercise1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day03/day03 exercise1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day03/day03 exercise2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day03/day03 exercise2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day03/day03 exercise3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day03/day03 exercise3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day03/day03 exercise4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day03/day03 exercise4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day03/day03 exercise5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day03/day03 exercise5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day03/day03 exercise6.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day03/day03 exercise6.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day03/day03 exercise6.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day03/day03 exercise6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day03/day03 exercise7.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day03/day03 exercise7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day03/exercise01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day03/exercise01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day03/exercise02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day03/exercise02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day03/exercise03.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day03/exercise03.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day03/exercise03.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day03/exercise03.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day03/exercise03.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day03/exercise03.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day03/exercise03.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day03/exercise03.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day03/exercise03.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day03/exercise03.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day03/exercise03.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day03/exercise03.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day03/exercise04.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day03/exercise04.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day03/exercise04.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day03/exercise04.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day03/exercise04.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day03/exercise04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day03/exercise05.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day03/exercise05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day03/exercise06.123.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day03/exercise06.123.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day03/exercise06.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day03/exercise06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day04/.idea/day04.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day04/.idea/day04.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day04/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day04/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day04/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day04/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day04/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day04/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day04/day04 exercise1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day04/day04 exercise1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day04/day04 exercise2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day04/day04 exercise2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day04/day04 exercise3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day04/day04 exercise3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day04/day04 exercise4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day04/day04 exercise4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day04/exercise01.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day04/exercise01.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day04/exercise01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day04/exercise01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day04/exercise02jiafayouxi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day04/exercise02jiafayouxi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day04/exercise03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day04/exercise03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day04/exercise04.0.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day04/exercise04.0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day04/exercise04.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day04/exercise04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day04/exercise05.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day04/exercise05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day04/exercise06.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day04/exercise06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day04/exercise07.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day04/exercise07.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day04/exercise07.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day04/exercise07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day05/.idea/day05.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day05/.idea/day05.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day05/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day05/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day05/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day05/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day05/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day05/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day05/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day05/day05 exercise01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day05/day05 exercise01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day05/day05 exercise02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day05/day05 exercise02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day05/day05 exercise03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day05/day05 exercise03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day05/exercise01.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day05/exercise01.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day05/exercise01.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day05/exercise01.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day05/exercise01.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day05/exercise01.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day05/exercise01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day05/exercise01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day05/exercise02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day05/exercise02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day05/exercise03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day05/exercise03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day05/exercise04.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day05/exercise04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day05/exercise05.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day05/exercise05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day05/exercise06.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day05/exercise06.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day05/exercise06.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day05/exercise06.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day05/exercise06.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day05/exercise06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day06/.idea/day06.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day06/.idea/day06.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day06/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day06/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day06/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day06/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day06/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day06/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day06/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day06/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day06/day06 exercise1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day06/day06 exercise1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day06/day06 exercise2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day06/day06 exercise2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day06/day06 exercise3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day06/day06 exercise3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day06/esercise01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day06/esercise01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day06/esercise02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day06/esercise02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day06/esercise06.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day06/esercise06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day06/exercise03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day06/exercise03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day06/exercise04.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day06/exercise04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day06/exercise05.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day06/exercise05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day06/exercise07.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day06/exercise07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day06/exercise08.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day06/exercise08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day06/exercise09.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day06/exercise09.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day06/exercise10.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day06/exercise10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day06/summarize789.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day06/summarize789.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day07/.idea/day07.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day07/.idea/day07.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day07/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day07/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day07/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day07/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day07/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day07/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day07/day07 exercise1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day07/day07 exercise1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day07/day07 exercise2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day07/day07 exercise2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day07/exercise01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day07/exercise01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day07/exercise02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day07/exercise02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day07/exercise03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day07/exercise03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day07/exercise04.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day07/exercise04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day07/exercise05.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day07/exercise05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day07/exercise06.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day07/exercise06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day07/exercise07.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day07/exercise07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day07/exercise08.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day07/exercise08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day07/exercise09.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day07/exercise09.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day07/exercise10.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day07/exercise10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day07/exercise11.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day07/exercise11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day07/exercise12.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day07/exercise12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day07/exercise13.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day07/exercise13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day07/exercise14.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day07/exercise14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day08/.idea/day08.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day08/.idea/day08.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day08/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day08/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day08/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day08/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day08/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day08/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day08/day08 homework1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day08/day08 homework1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day08/day08 homework2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day08/day08 homework2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day08/day08 homework3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day08/day08 homework3.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day08/day08 homework3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day08/day08 homework3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day08/demo07.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day08/demo07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day08/demo09.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day08/demo09.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day08/demo10.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day08/demo10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day08/exercise01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day08/exercise01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day08/exercise02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day08/exercise02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day08/exercise03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day08/exercise03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day08/exercise04.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day08/exercise04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day08/exercise05.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day08/exercise05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day08/exercise06.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day08/exercise06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day08/exercise07.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day08/exercise07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day08/exercise08.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day08/exercise08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day08/exercise09.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day08/exercise09.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day08/exercise10.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day08/exercise10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day08/exercise11.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day08/exercise11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day08/exercise12.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day08/exercise12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day09  object-oriented/.idea/day09.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day09  object-oriented/.idea/day09.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day09  object-oriented/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day09  object-oriented/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day09  object-oriented/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day09  object-oriented/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day09  object-oriented/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day09  object-oriented/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day09  object-oriented/demo01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day09  object-oriented/demo01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day09  object-oriented/demo02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day09  object-oriented/demo02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day09  object-oriented/homework01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day09  object-oriented/homework01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day09  object-oriented/homework02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day09  object-oriented/homework02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day10   class_object/.idea/day10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day10   class_object/.idea/day10.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day10   class_object/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day10   class_object/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day10   class_object/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day10   class_object/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day10   class_object/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day10   class_object/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day10   class_object/demo01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day10   class_object/demo01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day10   class_object/demo02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day10   class_object/demo02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day10   class_object/demo03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day10   class_object/demo03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day10   class_object/demo04.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day10   class_object/demo04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day10   class_object/demo05_Vector2_move.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day10   class_object/demo05_Vector2_move.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day10   class_object/exercise01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day10   class_object/exercise01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day10   class_object/exercise02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day10   class_object/exercise02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day10   class_object/exercise03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day10   class_object/exercise03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day10   class_object/homework01_Vector2_move.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day10   class_object/homework01_Vector2_move.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day10   class_object/homework02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day10   class_object/homework02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day10   class_object/review.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day10   class_object/review.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day11/.idea/day11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day11/.idea/day11.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day11/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day11/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day11/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day11/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day11/demo01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day11/demo01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day11/demo02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day11/demo02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day11/demo03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day11/demo03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day11/demo04.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day11/demo04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day11/exercise01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day11/exercise01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day11/exercise02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day11/exercise02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day11/exercise03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day11/exercise03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day11/exercise04.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day11/exercise04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day11/homework01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day11/homework01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day11/homework02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day11/homework02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day11/review10.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day11/review10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day12_packaging/.idea/day12_packaging.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day12_packaging/.idea/day12_packaging.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day12_packaging/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day12_packaging/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day12_packaging/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day12_packaging/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day12_packaging/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day12_packaging/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day12_packaging/demo01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day12_packaging/demo01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day12_packaging/homework01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day12_packaging/homework01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day13_inherit/.idea/day13_inherit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day13_inherit/.idea/day13_inherit.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day13_inherit/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day13_inherit/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day13_inherit/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day13_inherit/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day13_inherit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day13_inherit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day13_inherit/day13homework01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day13_inherit/day13homework01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day13_inherit/day13homework02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day13_inherit/day13homework02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day13_inherit/demo01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day13_inherit/demo01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day13_inherit/demo02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day13_inherit/demo02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day13_inherit/demo03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day13_inherit/demo03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day13_inherit/demo04.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day13_inherit/demo04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day13_inherit/exercise01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day13_inherit/exercise01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day13_inherit/exercise02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day13_inherit/exercise02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day13_inherit/exercise03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day13_inherit/exercise03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day13_inherit/exercise04.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day13_inherit/exercise04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day13_inherit/exercise05.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day13_inherit/exercise05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day13_inherit/review12.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day13_inherit/review12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day14/.idea/day14.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day14/.idea/day14.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day14/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day14/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day14/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day14/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day14/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day14/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day14/day14homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day14/day14homework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day14/demo01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day14/demo01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day14/demo02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day14/demo02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day14/demo03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day14/demo03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day14/demo04.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day14/demo04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day14/double_list_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day14/double_list_helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day14/exercise01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day14/exercise01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day14/exercise02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day14/exercise02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day14/exercise03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day14/exercise03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day14/module02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day14/module02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day14/review13.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day14/review13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day14/skill_system/bll.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day14/skill_system/bll.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day14/skill_system/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day14/skill_system/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day14/skill_system/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day14/skill_system/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day14/skill_system/ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day14/skill_system/ui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day15_package/demo01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day15_package/demo01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day15_package/demo02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day15_package/demo02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day15_package/demo03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day15_package/demo03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day15_package/demo04.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day15_package/demo04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day15_package/demo05.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day15_package/demo05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day15_package/exercise01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day15_package/exercise01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day15_package/exercise02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day15_package/exercise02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day15_package/exercise03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day15_package/exercise03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day15_package/exercise04.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day15_package/exercise04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day15_package/homeworkday15.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day15_package/homeworkday15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day15_package/module02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day15_package/module02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day15_package/package01/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day15_package/package01/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day15_package/package01/module_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day15_package/package01/module_a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day15_package/package01/package02/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day15_package/package01/package02/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day15_package/package01/package02/module_b.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day15_package/package01/package02/module_b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day15_package/review.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day15_package/review.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day16_Iterable object/demo01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day16_Iterable object/demo01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day16_Iterable object/demo02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day16_Iterable object/demo02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day16_Iterable object/demo03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day16_Iterable object/demo03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day16_Iterable object/demo04.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day16_Iterable object/demo04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day16_Iterable object/exercise01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day16_Iterable object/exercise01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day16_Iterable object/exercise02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day16_Iterable object/exercise02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day16_Iterable object/exercise03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day16_Iterable object/exercise03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day16_Iterable object/exercise04.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day16_Iterable object/exercise04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day16_Iterable object/exercise05.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day16_Iterable object/exercise05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day16_Iterable object/exercise06.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day16_Iterable object/exercise06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day16_Iterable object/exercise07.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day16_Iterable object/exercise07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day16_Iterable object/homeworkday16.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day16_Iterable object/homeworkday16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day16_Iterable object/review_day15.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day16_Iterable object/review_day15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day17/common/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day17/common/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day17/common/list_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day17/common/list_helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day17/demo01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day17/demo01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day17/demo02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day17/demo02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day17/demo03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day17/demo03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day17/demo04.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day17/demo04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day17/exercise01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day17/exercise01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day17/exercise02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day17/exercise02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day17/exercise03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day17/exercise03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day17/exercise04.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day17/exercise04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day17/exercise05.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day17/exercise05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day17/exercise06.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day17/exercise06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day17/homework_day1701.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day17/homework_day1701.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day17/homework_day1702.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day17/homework_day1702.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day17/review_day16.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day17/review_day16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day18/common/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day18/common/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day18/common/list_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day18/common/list_helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day18/demo01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day18/demo01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day18/demo02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day18/demo02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day18/demo03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day18/demo03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day18/exercise02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day18/exercise02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day18/exercise03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day18/exercise03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day18/exercise04.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day18/exercise04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day18/exercise05.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day18/exercise05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day18/exercsie01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day18/exercsie01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day18/homeworkday18.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day18/homeworkday18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day19/demo01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day19/demo01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day19/exercise01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day19/exercise01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/day19/exercise02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/day19/exercise02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/exercise01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/exercise01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/my_project_15day/common/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/my_project_15day/common/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/my_project_15day/common/double_list_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/my_project_15day/common/double_list_helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/my_project_15day/common/skill_system/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/my_project_15day/common/skill_system/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/my_project_15day/common/skill_system/skill_deployer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/my_project_15day/common/skill_system/skill_deployer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/my_project_15day/common/skill_system/skill_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/my_project_15day/common/skill_system/skill_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/my_project_15day/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/my_project_15day/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/project_month01/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/project_month01/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/project_month01/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/project_month01/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/project_month01/.idea/project_month01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/project_month01/.idea/project_month01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/project_month01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/project_month01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/project_month01/game2048_core.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/project_month01/game2048_core.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/project_month01/game2048_core_sort_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/project_month01/game2048_core_sort_code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/project_month01/game_2048/data_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/project_month01/game_2048/data_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/project_month01/moni.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/project_month01/moni.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/project_month01/skill_system/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/project_month01/skill_system/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/project_month01/skill_system/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/project_month01/skill_system/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/project_month01/skill_system/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/project_month01/skill_system/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/project_month01/skill_system/.idea/skill_system.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/project_month01/skill_system/.idea/skill_system.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/project_month01/skill_system/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/project_month01/skill_system/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/project_month01/skill_system/bll.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/project_month01/skill_system/bll.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/project_month01/skill_system/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/project_month01/skill_system/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/project_month01/skill_system/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/project_month01/skill_system/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/project_month01/skill_system/ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/project_month01/skill_system/ui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month01/project_month01/student_manager_system.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month01/project_month01/student_manager_system.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/.idea/month02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/.idea/month02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/0.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/English_dict" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/English_dict" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_file_operations/English_dict" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_file_operations/English_dict" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_file_operations/a.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_file_operations/a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_file_operations/asd.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_file_operations/asd.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_file_operations/bytes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_file_operations/bytes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_file_operations/exercise01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_file_operations/exercise01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_file_operations/exercise2.0.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_file_operations/exercise2.0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_file_operations/file.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_file_operations/file.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_file_operations/file_open.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_file_operations/file_open.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_file_operations/file_read.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_file_operations/file_read.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_file_operations/file_write.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_file_operations/file_write.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_file_operations/homework_copyfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_file_operations/homework_copyfile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_file_operations/test" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_file_operations/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_fileend/a.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_fileend/a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_fileend/b.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_fileend/b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_fileend/buffer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_fileend/buffer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_fileend/file_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_fileend/file_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_fileend/hold.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_fileend/hold.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_fileend/homeworkexercise02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_fileend/homeworkexercise02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_fileend/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_fileend/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_fileend/seek.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_fileend/seek.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_fileend/test" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_fileend/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_fileend/with.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day04_fileend/with.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/Stick_package/sock_recv.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/Stick_package/sock_recv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/Stick_package/sock_send.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/Stick_package/sock_send.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/exercise01_tcp/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/exercise01_tcp/client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/exercise01_tcp/exercise" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/exercise01_tcp/exercise" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/exercise01_tcp/rb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/exercise01_tcp/rb.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/exercise01_tcp/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/exercise01_tcp/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/exercise02_udp/English_dict" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/exercise02_udp/English_dict" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/exercise02_udp/udp_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/exercise02_udp/udp_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/exercise02_udp/udp_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/exercise02_udp/udp_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/http_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/http_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/sock_attr.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/sock_attr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/tcp_socket.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/tcp_socket.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/udp_broadcast/broadcast_recv.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/udp_broadcast/broadcast_recv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/udp_broadcast/broadcast_send.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/udp_broadcast/broadcast_send.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/udp_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/udp_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/udp_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day05/udp_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day06/exercise_struct/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day06/exercise_struct/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day06/exercise_struct/hello.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day06/exercise_struct/hello.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day06/exercise_struct/student.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day06/exercise_struct/student.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day06/exercise_struct/udp_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day06/exercise_struct/udp_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day06/exercise_struct/udp_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day06/exercise_struct/udp_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day06/http_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day06/http_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day06/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day06/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day06/remove05.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day06/remove05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/IO_network_2/day06/struct_zip.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/IO_network_2/day06/struct_zip.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/Mysql_5_day14_day15/English_dict" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/Mysql_5_day14_day15/English_dict" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/Mysql_5_day14_day15/emin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/Mysql_5_day14_day15/emin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/Mysql_5_day14_day15/exercise2_mysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/Mysql_5_day14_day15/exercise2_mysql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/Mysql_5_day14_day15/exercise_mysql" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/Mysql_5_day14_day15/exercise_mysql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/Mysql_5_day14_day15/exercises_mysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/Mysql_5_day14_day15/exercises_mysql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/Mysql_5_day14_day15/mysql_.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/Mysql_5_day14_day15/mysql_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/Mysql_5_day14_day15/read_db.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/Mysql_5_day14_day15/read_db.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/Mysql_5_day14_day15/save_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/Mysql_5_day14_day15/save_image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/Mysql_5_day14_day15/timg.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/Mysql_5_day14_day15/timg.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/Mysql_5_day14_day15/write_db.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/Mysql_5_day14_day15/write_db.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day07/Zombies.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day07/Zombies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day07/child_exer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day07/child_exer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day07/exit_.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day07/exit_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day07/fork.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day07/fork.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day07/fork.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day07/fork.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day07/get_pid.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day07/get_pid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day07/signal_.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day07/signal_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day08_chat_project/bop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day08_chat_project/bop.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day08_chat_project/chat_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day08_chat_project/chat_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day08_chat_project/chat_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day08_chat_project/chat_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day08_chat_project/homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day08_chat_project/homework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day08_chat_project/pool.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day08_chat_project/pool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day08_chat_project/process_attr.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day08_chat_project/process_attr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day08_chat_project/project_analyse" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day08_chat_project/project_analyse" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day08_chat_project/reviewday07" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day08_chat_project/reviewday07" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day08_chat_project/timg.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day08_chat_project/timg.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day08_chat_project/top.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day08_chat_project/top.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/array_0.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/array_0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/dead_lock.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/dead_lock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/homew/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/homew/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/homew/homework" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/homew/homework" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/homew/multi_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/homew/multi_process.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/homew/multi_thread.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/homew/multi_thread.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/homew/single.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/homew/single.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/homew/test" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/homew/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/homew/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/homew/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/myThread.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/myThread.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/queue_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/queue_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/sem.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/sem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/thread2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/thread2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/thread_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/thread_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/thread_attr.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/thread_attr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/thread_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/thread_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/thread_event.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/thread_event.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/thread_lock.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/thread_lock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/thread_lock2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/thread_lock2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/value.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day09/value.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day10/Zoro.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day10/Zoro.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day10/exercise_ftp_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day10/exercise_ftp_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day10/exercise_ftp_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day10/exercise_ftp_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day10/fork_process/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day10/fork_process/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day10/fork_process/fork_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day10/fork_process/fork_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day10/multip_process/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day10/multip_process/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day10/multip_process/multip_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day10/multip_process/multip_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day10/multip_process/multip_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day10/multip_process/multip_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day10/project_analyze" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day10/project_analyze" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day10/review_day09" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day10/review_day09" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day10/thread_process/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day10/thread_process/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day10/thread_process/thread_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day10/thread_process/thread_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day11/.swp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day11/.swp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day11/block_io.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day11/block_io.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day11/epoll_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day11/epoll_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day11/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day11/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day11/poll_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day11/poll_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day11/review_day10" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day11/review_day10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day11/select_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day11/select_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day11/select_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day11/select_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day11/yield.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day11/yield.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day12/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day12/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day12/async.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day12/async.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day12/epoll_http2.0_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day12/epoll_http2.0_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day12/gevent_monkey.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day12/gevent_monkey.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day12/gevent_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day12/gevent_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day12/gevent_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day12/gevent_text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day12/greenlet_0.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day12/greenlet_0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day12/http2.0_analze" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day12/http2.0_analze" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day12/http2.0_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day12/http2.0_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day12/http_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day12/http_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/concurrent_3/day12/review_day11" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/concurrent_3/day12/review_day11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/data_structure_1/day01_link/Link_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/data_structure_1/day01_link/Link_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/data_structure_1/day01_link/homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/data_structure_1/day01_link/homework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/data_structure_1/day01_link/linklist.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/data_structure_1/day01_link/linklist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/data_structure_1/day02_stack_queue/Lqueue.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/data_structure_1/day02_stack_queue/Lqueue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/data_structure_1/day02_stack_queue/exercise02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/data_structure_1/day02_stack_queue/exercise02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/data_structure_1/day02_stack_queue/homework_interface.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/data_structure_1/day02_stack_queue/homework_interface.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/data_structure_1/day02_stack_queue/l_stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/data_structure_1/day02_stack_queue/l_stack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/data_structure_1/day02_stack_queue/s_stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/data_structure_1/day02_stack_queue/s_stack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/data_structure_1/day02_stack_queue/squeue.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/data_structure_1/day02_stack_queue/squeue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/data_structure_1/day03_sort_recursion/bitree.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/data_structure_1/day03_sort_recursion/bitree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/data_structure_1/day03_sort_recursion/day03homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/data_structure_1/day03_sort_recursion/day03homework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/data_structure_1/day03_sort_recursion/recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/data_structure_1/day03_sort_recursion/recursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/data_structure_1/day03_sort_recursion/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/data_structure_1/day03_sort_recursion/search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/data_structure_1/day03_sort_recursion/sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/data_structure_1/day03_sort_recursion/sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/day17_dict_project/c.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/day17_dict_project/demo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/day17_dict_project/demo1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/day17_dict_project/dict_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/day17_dict_project/dict_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/day17_dict_project/dict_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/day17_dict_project/dict_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/day17_dict_project/m.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/day17_dict_project/mysql_.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/day17_dict_project/mysql_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/day17_dict_project/project_analyze" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/day17_dict_project/project_analyze" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/day17_dict_project/s.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/day18_http3.0/Project_analy" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/day18_http3.0/Project_analy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/day18_http3.0/WebFrame/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/day18_http3.0/WebFrame/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/day18_http3.0/WebFrame/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/day18_http3.0/WebFrame/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/day18_http3.0/WebFrame/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/day18_http3.0/WebFrame/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/day18_http3.0/WebFrame/webframe.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/day18_http3.0/WebFrame/webframe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/day18_http3.0/httpserver/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/day18_http3.0/httpserver/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/day18_http3.0/httpserver/httpserver.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/day18_http3.0/httpserver/httpserver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/day18_http3.0/static/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/day18_http3.0/static/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/git_github_day16/recivew" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/git_github_day16/recivew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/plane_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/plane_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/re_4_day13/exc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/re_4_day13/exc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/re_4_day13/exercise_re.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/re_4_day13/exercise_re.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/re_4_day13/flags.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/re_4_day13/flags.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/re_4_day13/re_exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/re_4_day13/re_exercise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/re_4_day13/regex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/re_4_day13/regex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/re_4_day13/regex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/re_4_day13/regex2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../month02/re_4_day13/reviewday12" beforeDir="false" afterPath="$PROJECT_DIR$/../../../month02/re_4_day13/reviewday12" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1dwTJQt5b1h2DRdpzXBBSBkth0N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3eba193-2472-4b98-8a0f-8460bc774b41" name="Default Changelist" comment="" />
+      <created>1593335083736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593335083736</updated>
+      <workItem from="1593335086751" duration="6059000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <!-- #表示提交到本地 -->
+    <form action="#">
+        <!-- 输入帐号 -->
+        <div>
+            <label for="accout">帐号：</label>
+            <input type="text"
+                   name="accout"
+                   id="accout"
+                   placeholder="手机/邮箱/用户名">
+        </div>
+        <div>
+            <label for="pass">密码：</label>
+            <input type="password"
+                   id="pass"
+                   name="pass"
+                   placeholder="密码">
+        </div>
+
+        <!--  选择性别 单选按钮 相互排斥  将name设为相同的值 -->
+        <div>
+            <label for="">性别：</label>
+            <input type="radio" name="sex" value="1" checked>男
+            <input type="radio" name="sex" value="2">女
+        </div>
+
+        <!-- 爱好 -->
+        <div>
+            <label for="">爱好：</label>
+            <input type="checkbox" name="hobby1" > 健身
+            <input type="checkbox" name="hobby2"> 游泳
+            <input type="checkbox" name="hobby3"> 游戏
+        </div>
+
+         <!-- 学历  下拉列表-->
+        <div>
+            <label for="x1">学历:</label>
+            <select name="xueli" id="x1">
+                <option value="0">请选择</option>
+                <option value="1">研究生</option>
+                <option value="2">本科</option>
+                <option value="3">大专</option>
+            </select>
+        </div>
+
+        <!-- 个人简介 -->
+        <div>
+            <label for="">简介：</label>
+            <textarea name="intro" id="" cols="30" rows="10"></textarea>
+        </div>
+
+        <!-- 提交信息 -->
+        <div>
+            <input type="submit" value="注册">
+            <input type="reset" value="重置"">
+        </div>
+
+        <!-- 只读，不可修改readonly -->
+        <div>
+            <label for="">你喜欢这个app吗</label>
+            <input type="text" readonly value="喜欢">
+        </div>
+
+        <!-- 不可用按钮disabled -->
+        <div>
+            <input type="reset" value="卸载" disabled>
+        </div>
+    </form>
+</body>
+</html>

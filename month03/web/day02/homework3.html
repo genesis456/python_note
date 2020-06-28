@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        /* 除去默认属性 */
+        h3,h5,p{
+            margin: 0;
+            padding: 0;
+        }
+
+        #goods{
+            width: 375px;
+            margin: 0 auto;
+            border: solid 2px #ccc;
+            padding: 20px 15px;
+        }
+
+        .top{
+            width: 100%;
+            border: solid 0px red;
+            
+        }
+        .title{
+            border: solid 0px red;
+            text-align: center;
+            padding: 10px 0px 8px 0px;
+            background-color: #eee
+        }
+        .mid{
+            border: solid 0px red;
+            /* 在父元素中清除浮动 */
+            overflow: hidden;
+        }
+        .mid>.ll{
+            float: left;
+            width: 182px;
+            text-align: center;
+        }
+        .mid>.rr{
+            float: right;
+            width: 182px;
+            text-align: center;
+        }
+        img{
+            width: 100%
+        }
+        /* 点击之前的状态 */
+        a:link{
+            color: #666;
+            /* 去掉下面那根线 */
+            text-decoration: none;
+            font-size: 13px;
+        }
+        a{
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div id="goods">
+        <div class="top">
+                <h3>众筹</h3>
+                <div class="img">
+                    <img src="imgs/img01.png" alt="">
+                </div>
+                <div class="title">
+                    <h3>苹果I-WATCH手表上市</h3>
+                    <p>一次手腕的呼吸革命</p>
+                </div>
+            <div class="mid">
+                <div class="ll">
+                    <img src="imgs/img02.png" alt="">
+                    <h5>大圣原版手偶</h5>
+                </div>
+                <div class="rr">
+                    <img src="imgs/img03.png" alt="">
+                    <h5>智能运动鞋</h3>
+                </div>
+
+            </div>
+            <div class="bottom">
+                <a href="#">智能手表</a>
+                <a href="#">创意新品</a>
+                <a href="#">时尚家周</a>
+                <a href="#" style="color:orangered">[动漫周边]</a>
+                <a href="#">指纹手机</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+<!-- 此项目思路过程：
+    １、将需求切成最外层大块
+    ２、在大块中切各个小块
+    ３、每块在开发都添加边框（以便知道该块在页面哪）
+    ４、完成时将边框值值为０ -->

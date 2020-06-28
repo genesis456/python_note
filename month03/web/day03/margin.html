@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        div{
+            width: 100px;
+            height: 100px;
+            /* 做div3和div4的外边距合并时，不能有一点距离（设为0），否则失效 */
+            border: solid 1px green;
+            margin: 0 auto;
+
+        }
+        #div1{
+            background-color: red;
+            margin-bottom: 50px;
+        }
+        #div2{
+            margin-top: 20px;
+            background-color: blue;
+        }
+        #div3{
+            margin-top: 30px;
+            background-color: aqua;
+            width: 300px;
+            height: 300px;
+        }
+        #div4{
+            margin-top: 20px;
+            background-color: black;
+        }
+        #div6{
+            /* 将div６的上边框设为-1可以合并去掉重叠的线 */
+            margin-top: -1px;
+        }
+    </style>
+</head>
+<body>
+    <!-- <div id="div1">
+
+    </div>
+    <div id="div2">
+
+    </div> -->
+
+    <!-- <div id="div3">
+        <div id="div4">
+
+        </div>
+    </div> -->
+
+    <div id="div5">
+
+    </div>
+
+    <div id="div6">
+
+    </div>
+</body>
+</html>

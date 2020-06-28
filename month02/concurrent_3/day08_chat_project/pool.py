@@ -10,7 +10,7 @@ def fun01(msg):
 
 # 1.创建进程池对象
 pool = Pool()
-# 2.讲事件加入到进程池队列执行
+# 2.将事件加入到进程池队列执行
 for i in range(10): #添加10个事件
     msg = '我是第%d个消息'%i
     pool.apply_async(fun01,args=(msg,))

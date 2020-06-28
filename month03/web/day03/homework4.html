@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #div1{
+            width: 320px;
+            background-color: #ccc;
+            border: solid 1px #ccc;
+            margin: 0 auto;
+        }
+        #div1>div:nth-child(1){
+            width:146px; 
+            height:146px;
+
+            margin: 0 auto;
+            margin-top: 20px;      
+        }
+        /* 是将图片改成圆形，而不是外层div */
+        #div1>div:nth-child(1)>img{
+            border-radius: 50%;
+        }
+        .intro{
+            text-align: center;
+            
+        }
+        input{
+            color: white;
+            width: 102px;
+            height: 50px;
+        }
+    </style>
+</head>
+<body>
+    <!-- 1、添加页面需求的元素，由大的块元素包裹子类元素 -->
+    <!-- ２、编写样式控制添加好的页面元素 -->
+    <!-- ３、微调编写好的样式，并调优 -->
+    <div id="div1">
+        <div>
+            <img width="146px" height="146px" src="imgs/timg.jpg" alt="">
+        </div>
+        <div class="intro" style="margin-top: 15px;">吴彦祖</div>
+        <div class="intro">Web前端工程师</div>
+        <div class="intro">男&nbsp;北京</div>
+        <div class="intro">这个人很懒，什么都没留下</div>
+        <div>
+            <input type="button" value="访问主页" style="background-color: blue">
+            <input type="button" value="发消息" style="background-color: green">
+            <input type="button" value="删除好友" style="background-color: red">
+        </div>
+    </div>
+</body>
+</html>

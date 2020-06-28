@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        p{
+            
+            width: 180px;
+            padding:0;
+            margin: 0;
+            margin-left: 10px;
+            margin-top: 6px;
+
+        }
+        .fl{
+            float: left;
+            
+        }
+        .fr{
+            float: right;
+        }
+        #div01{
+            width: 310px;
+            border: solid 1px red;
+            /* 浮动完要加overflow撑起了 */
+            overflow: hidden;
+            margin-bottom:8px;
+            
+        }
+        img{
+            
+            width: 120px;
+        }
+    </style>
+</head>
+<body>
+    <div id="div01">
+        <!-- 如果两个div要使用相同的样式，则可以将该样式分别提出来（像封装函数一样） -->
+        <img class="fl" src="123.jpg" alt="">
+        <p class="fr">&nbsp;&nbsp;我是吴彦祖,web前端工程师，编号1106，你好</p>
+    </div>
+    <div id="div01">
+        <img class="fr" src="123.jpg" alt="">
+        <p class="fl">&nbsp;&nbsp;我是吴彦祖,web前端工程师，编号1106，你好</p>
+    </div>
+</body>
+</html>

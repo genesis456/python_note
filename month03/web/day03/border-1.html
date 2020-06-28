@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=div, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        #test{
+            width: 100px;
+            height: 100px;
+            background-color: red;
+            margin: 0 auto;
+            /* 设置边框border */
+            border: 2px solid blue;
+        }
+        
+        /* 将宽高都设为0，通过边框撑开，左右５０和合成１００，上下５０合成１００．就和test的一样了 */
+        #test2{
+            width: 0px;
+            height:0px;
+            margin: 0 auto;
+            border: 50px solid blue;
+            /* 最下的三角形颜色设为透明transparent */
+            border-bottom-color: transparent;
+            border-left-color: transparent;
+            border-right-color: transparent;
+
+        }
+        #test3{
+            width: 100px;
+            height: 100px;
+            background-color: red;
+            margin: 0 auto;
+            /* 可以将圆的边框设为白色，可视为无边框 */
+            border: 2px solid white;
+            /* 记住半径角的位置（上右下左） */
+            /* 用宽度的一半作为半径可以作出圆 */
+            border-radius: 50%;
+
+        }
+        .div1{
+            width: 0px;
+            height: 0px;
+            border: 25px solid #ccc;
+            border-radius: 50%;
+            /* 隐藏右边的一块 */
+            border-right-color:transparent
+        }
+        .div2{
+            width: 0px;
+            height: 0px;
+            border: 25px solid red;
+            border-radius: 50%;
+            border-left-color: transparent;
+            border-right-color: transparent;
+            border-bottom-color: green;
+        }
+    </style>
+</head>
+<body>
+    <div id="test">
+
+    </div>
+
+    <div id="test2">
+
+    </div>
+
+    <div id="test3">
+
+    </div>
+
+    <div class="div1">
+
+    </div>
+    <div class="div2">
+
+    </div>
+</body>
+</html>
