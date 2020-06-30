@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    #创建完应用后需在django配置中注册
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -41,7 +42,7 @@ INSTALLED_APPS = [
     'index',
     'news',
     'music',
-    'bookstore'
+    'bookstore',
 ]
 
 MIDDLEWARE = [
@@ -81,13 +82,13 @@ WSGI_APPLICATION = 'mysite3.wsgi.application'
 # https://docs.djangoproject.com/en/1.11/ref/settings/#databases
 
 DATABASES = {
-    'default': {
+    'default' : {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'webdb',
+        'NAME': 'mysite3_db',  # 数据库名称,需要自己定义
         'USER': 'root',
-        'PASSWORD': '123456',
+        'PASSWORD': '123456',  # 管理员密码
         'HOST': '127.0.0.1',
-        'PORT': '3306',
+        'PORT': 3306,
     }
 }
 

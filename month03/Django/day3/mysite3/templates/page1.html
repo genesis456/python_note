@@ -8,6 +8,8 @@
 
 <h3>我是page1</h3>
 <a href="/page2">进入page2</a>
+
+<!--使用url标签和其路由是同一个，等同于是主路由的小名-->
 <a href="{% url 'page2' %}">进入page2[反向解析]</a>
 {% comment %}
 <a href="{% url 'pagen' '3' %}">进入page3[反向解析]</a>

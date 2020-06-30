@@ -1,11 +1,10 @@
 from django.db import models
 
 # Create your models here.
-class Book(models.Model):
-    #创建类属性，每一个类属性 就是数据表中的一个字段【列】 varchar（30）
-    title = models.CharField(max_length=30, verbose_name='书名')
-    # 00000.00
-    price = models.DecimalField('定价', max_digits=7, decimal_places=2, default=0.0)
-    #新添加字段 desc
-    desc = models.CharField(max_length=200, default='This is a good book!')
 
+#用一个类表示一个表
+class Book(models.Model):
+    #添加字段
+    title = models.CharField(max_length=30)  #相当varchar(30)
+    price = models.DecimalField(decimal_places=2,
+                                max_digits=7)  #Decimal(7,2)
