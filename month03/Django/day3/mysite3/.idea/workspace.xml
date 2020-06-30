@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fae768c4-f98d-4b3d-bda5-ecd2112e04f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/migrations/0002_book_desc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/migrations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/index/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/music/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/music/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite3/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite3/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite3/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite3/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite3/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite3/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/news/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sport/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/sport/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sport/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/sport/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/page1.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/page1.html" afterDir="false" />
-    </list>
+    <list default="true" id="fae768c4-f98d-4b3d-bda5-ecd2112e04f6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568079559511</updated>
-      <workItem from="1593422274092" duration="9562000" />
+      <workItem from="1593422274092" duration="9874000" />
     </task>
     <servers />
   </component>
