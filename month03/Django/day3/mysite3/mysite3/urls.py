@@ -32,5 +32,7 @@ urlpatterns = [
     url(r'^music/', include('music.urls')),
     url(r'^news/', include('news.urls')),
 
+    url(r'^bookstore/',include('bookstore.urls')),
+
 
 ]

@@ -405,7 +405,7 @@
         选择一个选项:
         ```
     - 错误原因
-        - 当将如下代码
+        - 解决办法： 添加null=True
         ```
         class Book(models.Model):
             title = models.CharField("书名", max_length=50, null=True)
@@ -462,14 +462,18 @@
 
 ### Django shell 的使用
 - 在Django提供了一个交互式的操作项目叫 `Django Shell` 它能够在交互模式用项目工程的代码执行相应的操作
+
 - 利用 Django Shell 可以代替编写View的代码来进行直接操作
+
 - 在Django Shell 下只能进行简单的操作，不能运行远程调式
+
 - 启动方式:
     ```shell
     $ python3 manage.py shell
     ```
 
 - 练习:
+    
     ```
     在 bookstore/models.py 应用中添加两个model类
     1. Book - 图书

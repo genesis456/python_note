@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>修改书价</title>
+    <style>
+        label{
+            display: inline-block;
+            width: 60px;
+            text-align: right;
+        }
+
+        div{
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <form action="/bookstore/mod/{{ abook.id }}" method="post">
+        <div>
+            <label for="">书名:</label>
+            <input type="text" name="title" value="{{ abook.title }}" disabled>
+        </div>
+
+        <div>
+            <label for="">出版社:</label>
+            <input type="text" name="pub" value="{{ abook.pub }}" disabled>
+        </div>
+        <div>
+            <label for="">定价:</label>
+            <input type="text" name="price" value="{{ abook.price }}" disabled>
+        </div>
+        <div>
+            <label for="">零售价:</label>
+            <input type="text" name="m_price" value="{{ abook.m_price }}">
+        </div>
+        <div>
+            <label for=""></label>
+            <input type="submit" value="确认修改">
+        </div>
+    </form>
+
+</body>
+</html>

@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fae768c4-f98d-4b3d-bda5-ecd2112e04f6" name="Default Changelist" comment="" />
+    <list default="true" id="fae768c4-f98d-4b3d-bda5-ecd2112e04f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bookstore/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day11/mysite6/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day11/mysite6/mysite6/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day11/mysite6/mysite6/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day11/mysite6/mysite6/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day11/mysite6/mysite6/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django教程day03.md" beforeDir="false" afterPath="$PROJECT_DIR$/../django教程day03.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite3/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite3/urls.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +39,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sport" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../day4/mysite4" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -57,7 +69,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568079559511</updated>
-      <workItem from="1593422274092" duration="9874000" />
+      <workItem from="1593422274092" duration="13577000" />
+      <workItem from="1593603235107" duration="6106000" />
+      <workItem from="1593667362250" duration="472000" />
     </task>
     <servers />
   </component>
@@ -69,7 +83,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
